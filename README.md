@@ -2,7 +2,7 @@
 
 Code Institute Easter 2019 Hackathon project
 
-## Easter Company
+## Eggstatic Events
 The Easter Company is company that runs a five-day easter camp for kids. Their website will showcase the company's mission and the events hosted by the company.
 
 ### UX
@@ -12,8 +12,14 @@ This site is for parents who want to send their children to a company in the wee
 * As a child, I want to see what the camp is like by watching videos and looking at pictures of the camp.
 
 ## Features
+This website features 5 pages: Main page, About, Events, Media and Contact. This gives the user - parent and / or child - a chance to see what the company does and what the camp will be like.
 
 ### Existing Features
+* Main page
+* About - allows users to find out more about the company by having them read text about what the company does.
+* Events - allows users to see the schedule for the camp and to buy tickets for those events.
+* Media - allows users to see what the camp is like visually through images and videos of events.
+* Contact - allows users to get in touch with questions and to book their space in the camp.
 
 ### Features Left to Implement
 
@@ -24,14 +30,27 @@ The project uses Bootstrap to...
 
 ## Testing
 
-## Contact form:
+1. Contact form
+
 
 ## Deployment
 
 ## Credits
 
 ### Content
+The content for the About section was written by Stewart.
 
 ### Media
+Home Hero/Splash Image https://unsplash.com/photos/z1mZLq5x_7M
+
+Home page bttom Image https://unsplash.com/photos/Ep_lYAGK51w
+
+About Image 1 https://unsplash.com/photos/NV4YaqJ2eZY
+About Image 2 https://unsplash.com/photos/cO8wyZr9__U
+About Image 3 https://unsplash.com/photos/xyDQNmT6vSs
+
+Media page page Image 1 https://unsplash.com/photos/l0mnnasWei8
+Media page page Image 2 https://unsplash.com/photos/WX2LJRq46bg
+Media page page Image 3 https://unsplash.com/photos/XtRVivoKXfs
 
 ### Acknowledgements

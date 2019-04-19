@@ -2,6 +2,10 @@
     background: #fff;
 }
 
+.navbar a {
+    color: #000;
+}
+
 .main {
 
 }
@@ -19,6 +23,18 @@
     padding-right: 0;
 }
 
+.page-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 68px 0;
+}
+
+.img--bunny {
+    margin: 0 0 48px;
+    max-width: 600px;
+    border-radius: 6px;
+}
+
 #header {
     height: 70vh;
     background-image: url('../assets/images/hero.jpeg');
@@ -26,10 +42,6 @@
     background-repeat: no-repeat;
     background-position: center;
     margin-top: 56px;
-}
-
-.center-header {
-    text-align: center;
 }
 
 
