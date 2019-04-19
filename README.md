@@ -50,6 +50,13 @@ Languages, frameworks, libraries, and any other tools used to construct this pro
 
 ## Deployment
 
+GitHub was used for version control and to host the code by pushing all code to the repo on GitHub.
+
+This project was then deployed on GitHub Pages by simply accessing the project's settings page then selecting the Master branch in the drop-down menu for deploying the project on GitHub Pages.
+
+The live project can be viewed [here](https://kes2401.github.io/code-institute-easter-hackathon/index.html).
+
+
 ## Credits
 
 ### Content
