@@ -1,3 +1,7 @@
+.navbar {
+    background: #fff;
+}
+
 .main {
 
 }
@@ -13,6 +17,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    margin-top: 56px;
 }
 
 /* Events List */
