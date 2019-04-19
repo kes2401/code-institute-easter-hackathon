@@ -28,6 +28,11 @@
     margin-top: 56px;
 }
 
+.center-header {
+    text-align: center;
+}
+
+
 /* Events List */
 
 #headerEvents {
