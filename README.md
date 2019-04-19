@@ -3,19 +3,19 @@
 Code Institute Easter 2019 Hackathon project
 
 ## Eggstatic Events
-The Easter Company is company that runs a five-day easter camp for kids. Their website will showcase the company's mission and the events hosted by the company.
+Eggstatic Events is a company that runs a five-day easter camp for kids aged between 5 and 12 years of age during their Easter holidays from school. The website will showcase the company's mission and the events hosted by the company. Users can also get in touch by using a contact form.
 
-### UX
-This site is for parents who want to send their children to a company in the week leading up to Easter. The camp will host events over a five-day period. Children can also see what the camp is like via the website. Our website will also parents to book spaces for the children to join the camp.
+## UX
+This site is for parents who want to send their children to a camp in the week leading up to Easter. The camp will host fun, child-friendly events over a five-day period. Children can also see what the camp is like via the website by checking out the images and videos on the media page. Our website will also allow parents to book spaces for the children to join the camp.
 
 * As a parent, I want to view what the company and the camp is like and decide whether I will send my child there.
-* As a child, I want to see what the camp is like by watching videos and looking at pictures of the camp.
+* As a child, I want to see what the camp is like by watching videos and looking at pictures of the camp and its events.
 
 ## Features
 This website features 5 pages: Main page, About, Events, Media and Contact. This gives the user - parent and / or child - a chance to see what the company does and what the camp will be like.
 
 ### Existing Features
-* Main page
+* Main page - allows users to get a first impression of the company and what events it runs.
 * About - allows users to find out more about the company by having them read text about what the company does.
 * Events - allows users to see the schedule for the camp and to buy tickets for those events.
 * Media - allows users to see what the camp is like visually through images and videos of events.
