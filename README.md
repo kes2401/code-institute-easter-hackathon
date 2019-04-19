@@ -11,3 +11,27 @@ This site is for parents who want to send their children to a company in the wee
 * As a parent, I want to view what the company and the camp is like and decide whether I will send my child there.
 * As a child, I want to see what the camp is like by watching videos and looking at pictures of the camp.
 
+## Features
+
+### Existing Features
+
+### Features Left to Implement
+
+## Technologies Used
+
+* Bootstrap
+The project uses Bootstrap to...
+
+## Testing
+
+## Contact form:
+
+## Deployment
+
+## Credits
+
+### Content
+
+### Media
+
+### Acknowledgements
