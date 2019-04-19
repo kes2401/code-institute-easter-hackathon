@@ -43,10 +43,8 @@ Languages, frameworks, libraries, and any other tools used to construct this pro
     
 ## Testing
 
-1. Contact form: checked number text area is for phone number and not other number types.
-2. 
-
-
+Contact form: checked number text area is for phone number and not other number types.
+Navbar: check the navbar was uniform and functional through the website.
 
 ## Deployment
 
@@ -75,3 +73,4 @@ The photos used in this site were obtained from:
 * Contact page image https://unsplash.com/photos/z1mZLq5x_7M
 
 ### Acknowledgements
+We received inspiration for this project because it's Easter.
