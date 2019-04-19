@@ -26,11 +26,13 @@ This website features 5 pages: Main page, About, Events, Media and Contact. This
 ## Technologies Used
 
 * Bootstrap
-The project uses Bootstrap to...
+The project uses Bootstrap to build a responsive frontend static website.
 
 ## Testing
 
-1. Contact form
+1. Contact form: checked number text area is for phone number and not other number types.
+2. 
+
 
 
 ## Deployment
@@ -41,16 +43,15 @@ The project uses Bootstrap to...
 The content for the About section was written by Stewart.
 
 ### Media
-Home Hero/Splash Image https://unsplash.com/photos/z1mZLq5x_7M
-
-Home page bttom Image https://unsplash.com/photos/Ep_lYAGK51w
-
-About Image 1 https://unsplash.com/photos/NV4YaqJ2eZY
-About Image 2 https://unsplash.com/photos/cO8wyZr9__U
-About Image 3 https://unsplash.com/photos/xyDQNmT6vSs
-
-Media page page Image 1 https://unsplash.com/photos/l0mnnasWei8
-Media page page Image 2 https://unsplash.com/photos/WX2LJRq46bg
-Media page page Image 3 https://unsplash.com/photos/XtRVivoKXfs
+The photos used in this site were obtained from:
+* Home Hero/Splash Image https://unsplash.com/photos/z1mZLq5x_7M
+* Home page bottom Image https://unsplash.com/photos/Ep_lYAGK51w
+* About Image 1 https://unsplash.com/photos/NV4YaqJ2eZY
+* About Image 2 https://unsplash.com/photos/cO8wyZr9__U
+* About Image 3 https://unsplash.com/photos/xyDQNmT6vSs
+* Media page page Image 1 https://unsplash.com/photos/l0mnnasWei8
+* Media page page Image 2 https://unsplash.com/photos/WX2LJRq46bg
+* Media page page Image 3 https://unsplash.com/photos/XtRVivoKXfs
+* Contact page image https://unsplash.com/photos/z1mZLq5x_7M
 
 ### Acknowledgements
