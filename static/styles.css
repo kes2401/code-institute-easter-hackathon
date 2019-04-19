@@ -1,8 +1,61 @@
 .main {
-    margin-top: 56px;
+    
 }
 
 .container-fluid {
     padding-left: 0;
     padding-right: 0;
+}
+
+#header {
+    height: 70vh;
+    background-image: url('../assets/images/hero.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+
+/*-----Colours-----*/
+
+.text-blue {
+    color: #83DDD6;    
+}
+
+.text-green {
+    color: #8BEAAF;
+}
+
+.text-yellow {
+    color: #F7F396;
+}
+
+.text-pink {
+    color: #F2C9C9;
+}
+
+.text-purple {
+    color: #ACA7C4;
+}
+
+.bg-blue {
+    background-color: #83DDD6;    
+}
+
+.bg-green {
+    background-color: #8BEAAF;
+}
+
+.bg-yellow {
+    background-color: #F7F396;
+}
+
+.bg-pink {
+    background-color: #F2C9C9;
+}
+
+.bg-purple {
+    background-color: #ACA7C4;
 }
