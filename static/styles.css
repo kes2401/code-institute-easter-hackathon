@@ -1,3 +1,7 @@
+.navbar {
+    background: #fff;
+}
+
 .main {
 
 }
@@ -21,7 +25,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-<<<<<<< HEAD
+    margin-top: 56px;
 }
 
 /* Events List */
@@ -39,9 +43,7 @@
 .events {
     max-width: 340px;
     margin: 48px auto;
-=======
     margin-top: 56px;
->>>>>>> 1fa3c0dac77538ccd505a24d211f58cff45490d0
 }
 
 @media screen and (min-width: 768px) {
