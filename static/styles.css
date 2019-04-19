@@ -149,6 +149,25 @@
     display: none
  }
 
+/* ------------------------------------------ Contact Form */
+.contact-heading {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.center-form {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    max-width: 40%;
+}
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #fafafa;
+}
+
 /*-----Colours-----*/
 
 .text-blue {
