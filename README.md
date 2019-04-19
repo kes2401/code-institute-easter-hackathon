@@ -2,7 +2,7 @@
 
 Code Institute Easter 2019 Hackathon project
 
-## Easter Company
+## Eggstatic Events
 The Easter Company is company that runs a five-day easter camp for kids. Their website will showcase the company's mission and the events hosted by the company.
 
 ### UX
@@ -38,6 +38,7 @@ The project uses Bootstrap to...
 ## Credits
 
 ### Content
+The content for the About section was written by Stewart.
 
 ### Media
 Home Hero/Splash Image https://unsplash.com/photos/z1mZLq5x_7M
