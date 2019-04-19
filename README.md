@@ -23,11 +23,24 @@ This website features 5 pages: Main page, About, Events, Media and Contact. This
 
 ### Features Left to Implement
 
+...
+
 ## Technologies Used
 
-* Bootstrap
-The project uses Bootstrap to build a responsive frontend static website.
+Languages, frameworks, libraries, and any other tools used to construct this project. 
 
+- HTML 5
+    - This project uses **HTML** to structure the content of the website.
+- CSS 3
+    - The project uses **CSS** to add styling and to adjust the default styling of components provided by the Bootstrap framework. It was also used to add media queries to assist in the responsive behaviour of the site.
+- [Bootstrap](https://getbootstrap.com/)
+    - This project uses **Bootstrap** to assist with responsive behaviour and to provide a grid framework.
+- JavaScript
+    - The project uses **JavaScript** to add some interactive behaviour, particularly while using the jQuery library.
+- [jQuery](https://jquery.com/)
+    - This project uses **jQuery** to provide some minor interactive features 
+    
+    
 ## Testing
 
 1. Contact form: checked number text area is for phone number and not other number types.
