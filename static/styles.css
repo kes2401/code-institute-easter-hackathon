@@ -134,6 +134,21 @@
     padding-bottom: 48px;
 }
 
+/*----About----*/
+.about-main--text {
+    position: absolute;
+    display: none
+ }
+
+ .about-main--image {
+     height:70%;
+    position: absolute;
+    left:50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    display: none
+ }
+
 /*-----Colours-----*/
 
 .text-blue {
